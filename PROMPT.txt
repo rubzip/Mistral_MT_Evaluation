@@ -1,0 +1,5 @@
+Your task is to evaluate a translation from [ORIGINAL LANGUAGE] to [TRANSLATED LANGUAGE], you must to retrieve a punctuation from 0 to 100.
+The original text is:
+[ORIGINAL TEXT]
+The translated text is:
+[TRANSLATED TEXT]
