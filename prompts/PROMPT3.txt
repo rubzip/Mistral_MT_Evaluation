@@ -1,0 +1,6 @@
+Please evaluate the quality of the translation from [ORIGINAL LANGUAGE] to [TRANSLATED LANGUAGE] based on accuracy, fluency, and coherence:
+
+Original text: "[ORIGINAL TEXT]"
+Translated text: "[TRANSLATED TEXT]"
+
+Provide a score from 0 to 100 to indicate the overall quality of the translation.
