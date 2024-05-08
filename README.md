@@ -6,13 +6,13 @@ In this project we evaluate how three different state of the art decoder-only mo
 
 We evaluate 10 pairs of languages:
 
-High resourced:
+**High resourced**:
 * English-Chinese (en-zh)
 * English-Czech (en-cs)
 * English-German (en-de)
 * Finnish-English (fi-en)
 
-Low resourced:
+**Low resourced**:
 * German-French (de-fr)
 * German-Czech (de-cs)
 * Hindi-Bengali (hi-bn)
