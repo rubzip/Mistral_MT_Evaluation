@@ -1,8 +1,3 @@
-<<<<<<< Updated upstream
-# Mistral_MT_Evaluation
-
-Machine translation evaluation based on Mistral API calls.
-=======
 # Are LLMs good MT evaluators?
 
 In this project we evaluate how three different state of the art decoder-only models are useful in regards to scoring machine translated sentence.
@@ -51,4 +46,3 @@ MISTRAL_API_KEY=<your_key>
 GROQ_API_KEY=<your_key>
 ```
 You are ready!
->>>>>>> Stashed changes
